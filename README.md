@@ -13,20 +13,16 @@ Project Objectives:
 
 Scope Inclusions:
 1. Inventory Management:
-Tracking of stock quantities in real-time.
-Monitoring stock levels, including minimum and maximum thresholds.
-Tracking of items by SKU and location.
-
+a. Tracking of stock quantities in real-time.
+b. Monitoring stock levels, including minimum and maximum thresholds.
+c. Tracking of items by SKU and location.
 2. Order Management:
-Purchase order creation.
-Sales order management.
-
+a. Purchase order creation.
+b. Sales order management.
 3. Reporting and Analytics:
-Generation of reports on inventory levels, sales, production and usage.
-
+a. Generation of reports on inventory levels, sales, production and usage.
 4. User Access Control:
-Role-based user access management.
-
+a. Role-based user access management.
 5. System Support:
 Technical support and user training materials for system usage.
 Regular system updates and maintenance.
